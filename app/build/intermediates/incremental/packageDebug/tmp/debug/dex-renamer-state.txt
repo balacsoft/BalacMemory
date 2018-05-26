@@ -1,0 +1,4 @@
+#Sat May 26 20:31:19 CEST 2018
+base.0=E\:\\Work-BAL\\Android\\Workspace\\BalacMemory-migrated\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

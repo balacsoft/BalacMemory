@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:initialLayout="@layout/balacmemory" 
+    android:minWidth="180sp"
+    android:minHeight="60sp" 
+    android:updatePeriodMillis="1000" 
+    >
+</appwidget-provider>  

@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:1-37:12
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d104346cbcdaaf0087c1ed4e00ad2937\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b940413c73aa00a0115ba6d3f2a350a0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d872a1c3e59c37064da3ffd66b31caa0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7777303e5c04a4aa7d87db829fbbd900\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\44cdde57e9c24a4badc09238c0eb9bc6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a01cdfb387030fb3f797c17c77db84df\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d104346cbcdaaf0087c1ed4e00ad2937\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d104346cbcdaaf0087c1ed4e00ad2937\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b940413c73aa00a0115ba6d3f2a350a0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b940413c73aa00a0115ba6d3f2a350a0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d872a1c3e59c37064da3ffd66b31caa0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d872a1c3e59c37064da3ffd66b31caa0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7777303e5c04a4aa7d87db829fbbd900\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7777303e5c04a4aa7d87db829fbbd900\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\44cdde57e9c24a4badc09238c0eb9bc6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\44cdde57e9c24a4badc09238c0eb9bc6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a01cdfb387030fb3f797c17c77db84df\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a01cdfb387030fb3f797c17c77db84df\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d104346cbcdaaf0087c1ed4e00ad2937\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d104346cbcdaaf0087c1ed4e00ad2937\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b940413c73aa00a0115ba6d3f2a350a0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b940413c73aa00a0115ba6d3f2a350a0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d872a1c3e59c37064da3ffd66b31caa0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d872a1c3e59c37064da3ffd66b31caa0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7777303e5c04a4aa7d87db829fbbd900\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7777303e5c04a4aa7d87db829fbbd900\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\44cdde57e9c24a4badc09238c0eb9bc6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\44cdde57e9c24a4badc09238c0eb9bc6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a01cdfb387030fb3f797c17c77db84df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a01cdfb387030fb3f797c17c77db84df\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:14:9-40
+receiver#com.balacsoft.balacmemory.MyWidgetProvider
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:name
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:15:19-50
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:16:13-18:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:17:17-84
+	android:name
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:17:25-81
+meta-data#android.appwidget.provider
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:20:13-22:65
+	android:resource
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:22:17-62
+	android:name
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:21:17-58
+receiver#com.balacsoft.balacmemory.MyWidgetIntentReceiver
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:label
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:26:13-52
+	android:name
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:25:13-50
+intent-filter#action:name:com.balacmemory.intent.action.REFRESH
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:27:13-29:29
+action#com.balacmemory.intent.action.REFRESH
+ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:28:17-80
+	android:name
+		ADDED from E:\Work-BAL\Android\Workspace\BalacMemory-migrated\app\src\main\AndroidManifest.xml:28:25-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d104346cbcdaaf0087c1ed4e00ad2937\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d104346cbcdaaf0087c1ed4e00ad2937\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b940413c73aa00a0115ba6d3f2a350a0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b940413c73aa00a0115ba6d3f2a350a0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d872a1c3e59c37064da3ffd66b31caa0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d872a1c3e59c37064da3ffd66b31caa0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7777303e5c04a4aa7d87db829fbbd900\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7777303e5c04a4aa7d87db829fbbd900\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\44cdde57e9c24a4badc09238c0eb9bc6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\44cdde57e9c24a4badc09238c0eb9bc6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a01cdfb387030fb3f797c17c77db84df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a01cdfb387030fb3f797c17c77db84df\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\b805208ad41c64eac50dffd3bb7fb466\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\topitop\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72fa76a6e37874b544de52fda127a5fa\AndroidManifest.xml:26:13-58
